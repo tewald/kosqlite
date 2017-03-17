@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1.0
+Type=Application
+Name=KoSQLite
+GenericName=KoSQLite
+Comment=Client for SQLite database
+TryExec=/usr/bin/kosqlite
+Exec=kosqlite %f
+Icon=/usr/share/pixmaps/kosqlite.png
+Categories=Development;
+MimeType=application/x-sqlite3
